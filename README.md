@@ -27,12 +27,6 @@ This project recreates the classic Snake experience with a minimalistic, text-ba
 
 ---
 
-## 📸 Preview
-
-_Add a terminal screenshot or GIF here (recommended)_
-
----
-
 ## ▶️ How to Run
 
 ### 1. Clone the repository
